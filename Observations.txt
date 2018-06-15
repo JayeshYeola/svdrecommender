@@ -1,0 +1,31 @@
+Observations:
+For Gamma = 0.010 and Lambda = 0.20
+RMSE for Iter 2 = 0.806524077658
+RMSE for Iter 25 = 0.71805977973
+
+For Gamma = 0.011 and Lambda = 0.25
+RMSE for Iter 1 = 0.815898153492
+RMSE for Iter 25 = 0.690523165295
+
+Timing
+Time at start of iteration  0  is:  2018-06-14 09:25:49.294000
+Time at start of iteration  1  is:  2018-06-14 09:40:21.567000
+Time at start of iteration  2  is:  2018-06-14 09:52:00.029000
+Time at start of iteration  3  is:  2018-06-14 10:03:53.024000
+Time at start of iteration  4  is:  2018-06-14 10:11:39.625000
+Time at start of iteration  5  is:  2018-06-14 10:19:39.393000
+Time at start of iteration  6  is:  2018-06-14 10:28:30.343000
+Time at start of iteration  7  is:  2018-06-14 10:36:20.975000
+Time at start of iteration  8  is:  2018-06-14 10:45:46.557000
+Time at start of iteration  9  is:  2018-06-14 10:54:02.237000
+Time at start of iteration  10  is:  2018-06-14 11:03:28.491000
+Time at start of iteration  11  is:  2018-06-14 11:11:54.490000
+Time at start of iteration  12  is:  2018-06-14 11:22:02.825000
+Time at start of iteration  13  is:  2018-06-14 11:34:02.018000
+Time at start of iteration  14  is:  2018-06-14 11:46:04.521000
+Time at start of iteration  15  is:  2018-06-14 11:57:57.771000
+Time at start of iteration  16  is:  2018-06-14 12:09:20.005000
+Time at start of iteration  17  is:  2018-06-14 12:20:52.970000
+Time at start of iteration  18  is:  2018-06-14 12:33:02.138000
+Time at start of iteration  19  is:  2018-06-14 12:44:47.725000
+Time at start of iteration  20  is:  2018-06-14 12:56:28.651000
